@@ -1,0 +1,31 @@
+/* Escribe aqui tu CSS */
+#main{
+   background-color: white;
+   width: 1200px;
+    height: 500px;
+    border: solid 5px #DCDCDC;
+    float: left;
+    
+}
+
+#P1{
+    border: solid yellow 15px;
+    width: 330px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    text-align: center;
+    
+}
+
+#P2{
+    border: solid yellow 15px;
+    width: 330px;
+    margin-left: 540px;
+    
+  
+}
+p{ 
+    padding: 6px 39px;
+    
+}
